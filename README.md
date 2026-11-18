@@ -151,3 +151,4 @@ This repository is pre-configured with `netlify.toml`:
 
 Crafted by **Sujal Mahalange**  
 *OmniCalc Pro — Built for engineering minds.*
+
